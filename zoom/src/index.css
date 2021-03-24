@@ -1,0 +1,19 @@
+body{
+  font-size: 2rem;
+}
+.rightside{
+  background-color: #000;
+  color: #fff;
+}
+#waiting {
+  text-align: center;
+}
+#participants {
+  text-align: center;
+}
+
+.contact-form{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,32 @@
+[
+      {
+         "id":"10",
+         "name":"liam pane",
+         "state":"student"
+      },
+      {
+         "id":"20",
+         "name":"poe dameron",
+         "state":"student"
+      },
+      {
+         "id":"30",
+         "name":"luke solo",
+         "state":"brother"
+      },
+      {
+         "id":"40",
+         "name":"ray palmer",
+         "state":"precursor"
+      },
+      {
+         "id":"50",
+         "name":"obi wan",
+         "state":"elder"
+      },
+      {
+         "id":"60",
+         "name":"justin espinoza",
+         "state":"ministerial,precursor"
+      }
+]
