@@ -5,9 +5,9 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
 //import {Container, Row, Col} from 'react-bootstrap';
-import ContactUs from './components/emailjs';
+
 ReactDOM.render(
-  <ContactUs></ContactUs>,
+  <App></App>,
   document.getElementById('root')
 );
 

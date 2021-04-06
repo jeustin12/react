@@ -11,7 +11,7 @@ const UseStateArray = () => {
           <div key={id} className='item'>
             <h4>{name}</h4>
             <button className="btn" onClick={ ()=> setPeople([])}>
-              clear items 
+              borrar items 
               </button>
           </div>
         );
